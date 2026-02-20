@@ -709,9 +709,9 @@ ul, ol {
     align-items: center;
     gap: 24px;
     padding: 24px;
-    background: var(--white);
-    border-radius: 16px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    background: transparent;
+    border-radius: 0px;
+    box-shadow: 0;
     animation: fadeInUp 0.8s ease-out 0.7s backwards;
 }
 
@@ -736,8 +736,8 @@ ul, ol {
 }
 
 .stat-divider {
-    width: 2px;
-    height: 40px;
+    width: 0px;
+    height: 0px;
     background: var(--light-gray);
 }
 
@@ -785,10 +785,10 @@ ul, ol {
 
 @keyframes float {
     0%, 100% {
-        transform: translateY(-100px);
+        transform: translateY(-80px);
     }
     50% {
-        transform: translateY(-120px);
+        transform: translateY(-100px);
     }
 }
 /* =====  Brochure Hover ===== */
@@ -4773,3 +4773,4 @@ ul, ol {
    END OF COMPONENT 1 STYLES
 
    ============================================ */
+
