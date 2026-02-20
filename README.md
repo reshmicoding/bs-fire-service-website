@@ -1,2 +1,1 @@
-# bs-fire-service-website
-professional fire safety service website
+This is the official website of B S Fire Service
