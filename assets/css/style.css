@@ -785,10 +785,10 @@ ul, ol {
 
 @keyframes float {
     0%, 100% {
-        transform: translateY(-140px);
+        transform: translateY(-100px);
     }
     50% {
-        transform: translateY(-160px);
+        transform: translateY(-120px);
     }
 }
 /* =====  Brochure Hover ===== */
@@ -4771,4 +4771,5 @@ ul, ol {
 
 /* ============================================
    END OF COMPONENT 1 STYLES
+
    ============================================ */
