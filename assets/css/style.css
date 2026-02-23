@@ -69,8 +69,9 @@ body {
 .clients-section,
 .why-section,
 .contact-section {
-    background: transparent;
+    background: transparent !important;
 }
+
 
 img {
     max-width: 100%;
@@ -4773,5 +4774,6 @@ ul, ol {
    END OF COMPONENT 1 STYLES
 
    ============================================ */
+
 
 
