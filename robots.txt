@@ -1,0 +1,12 @@
+# B S Fire Service - Robots.txt
+# Allow all search engines to crawl
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bsfireservice.com/sitemap.xml
+
+# Block these if you have them (we don't)
+Disallow: /admin/
+Disallow: /private/
