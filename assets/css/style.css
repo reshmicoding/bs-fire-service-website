@@ -69,7 +69,7 @@ body {
 .clients-section,
 .why-section,
 .contact-section {
-    background: transparent !important;
+    background: transparent;
 }
 
 img {
@@ -4773,4 +4773,5 @@ ul, ol {
    END OF COMPONENT 1 STYLES
 
    ============================================ */
+
 
