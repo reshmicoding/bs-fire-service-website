@@ -786,10 +786,10 @@ ul, ol {
 
 @keyframes float {
     0%, 100% {
-        transform: translateY(-100px);
+        transform: translateY(-80px);
     }
     50% {
-        transform: translateY(-100px);
+        transform: translateY(-80px);
     }
 }
 /* =====  Brochure Hover ===== */
