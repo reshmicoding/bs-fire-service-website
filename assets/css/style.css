@@ -786,7 +786,7 @@ ul, ol {
 
 @keyframes float {
     0%, 100% {
-        transform: translateY(-80px);
+        transform: translateY(-100px);
     }
     50% {
         transform: translateY(-100px);
